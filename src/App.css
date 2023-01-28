@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* @media screen and (min-width: 0px) and(max-width:600px) {
+  .second{
+    fontSize:80px;
+  }
+  
+} */
+.cart {
+  color: red !important;
 }
